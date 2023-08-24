@@ -2,7 +2,7 @@
 This project involves comprehensive analyses on the MOVIE dataset, employing a range of analytical approaches to extract valuable insights. In addition, I have developed an intuitive GUI application that empowers users to discover personalized movie recommendations based on their preferences. 
 
 
-## Features of the IMDB Top 250 Movies Dataset:
+## Features of the Movies Dataset:
 
 - TITLE [0]
 - YEAR [1]
